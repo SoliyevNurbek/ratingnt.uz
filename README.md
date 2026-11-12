@@ -22,14 +22,14 @@
 
 ## Loyiha tuzilmasi
 
-- [`config.php`](/d:/OSPanel/domains/ratingnt.uz/config.php) - markaziy baza konfiguratsiyasi va DB helper klassi
-- [`index.php`](/d:/OSPanel/domains/ratingnt.uz/index.php) - bosh sahifa
-- [`login/register/index.php`](/d:/OSPanel/domains/ratingnt.uz/login/register/index.php) - ro'yxatdan o'tish sahifasi
-- [`login/login/index.php`](/d:/OSPanel/domains/ratingnt.uz/login/login/index.php) - login sahifasi
-- [`tanlash.php`](/d:/OSPanel/domains/ratingnt.uz/tanlash.php) - rolga qarab sahifaga yo'naltiradi
-- [`students.php`](/d:/OSPanel/domains/ratingnt.uz/students.php) - student bo'limi
-- [`teachers.php`](/d:/OSPanel/domains/ratingnt.uz/teachers.php) - o'qituvchi bo'limi
-- [`user.php`](/d:/OSPanel/domains/ratingnt.uz/user.php) - foydalanuvchi fikr yuborish sahifasi
+- [`config.php`](config.php) - markaziy baza konfiguratsiyasi va DB helper klassi
+- [`index.php`](index.php) - bosh sahifa
+- [`login/register/index.php`](login/register/index.php) - ro'yxatdan o'tish sahifasi
+- [`login/login/index.php`](login/login/index.php) - login sahifasi
+- [`tanlash.php`](tanlash.php) - rolga qarab sahifaga yo'naltiradi
+- [`students.php`](students.php) - student bo'limi
+- [`teachers.php`](teachers.php) - o'qituvchi bo'limi
+- [`user.php`](user.php) - foydalanuvchi fikr yuborish sahifasi
 
 ## Talablar
 
@@ -127,7 +127,7 @@ Loyihada `users.rol_id` ustuni ishlatiladi:
 - `2` - o'qituvchi
 - `3` - oddiy foydalanuvchi
 
-[`tanlash.php`](/d:/OSPanel/domains/ratingnt.uz/tanlash.php) fayli foydalanuvchini roliga qarab kerakli sahifaga o'tkazadi.
+[`tanlash.php`](tanlash.php) fayli foydalanuvchini roliga qarab kerakli sahifaga o'tkazadi.
 
 ## Qaysi jadvalga nima yoziladi
 
