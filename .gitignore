@@ -1,1 +1,15 @@
 config.php
+
+# maxfiy va keraksiz fayllar
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+instance/
+.env
+.coverage
+.DS_Store
+uploads/*
+!uploads/.gitkeep
